@@ -1,0 +1,36 @@
+Insert, Alice
+Insert, Bob
+Insert, Charlie
+Insert, David
+Insert, Eva
+Insert, Frank
+Insert, Grace
+Insert, Hank
+Insert, Ivy
+Insert, Jack
+Update, Bob, 200
+Update, Alice, 100
+Update, Charlie, 300
+Update, David, 400
+Update, Eva, 500
+Update, Frank, 600
+Update, Grace, 700
+Update, Hank, 800
+Update, Ivy, 900
+Update, Jack, 1000
+Insert, Alice           
+Update, Zoe, 250         
+Delete, Zoe              
+Delete, Jack         
+Delete, Ivy           
+Delete, Charlie         
+Insert, Ursula
+Update, Ursula, 1100
+Insert, Victor
+Update, Victor, 1050
+Insert, Mike
+Update, Mike, 1200
+Search, Frank            
+Search, Zoe            
+Top                      
+Leaderboard              

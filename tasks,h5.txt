@@ -1,0 +1,41 @@
+Insert, Alice
+Insert, Bob
+Insert, Charlie
+Insert, David
+Insert, Eva
+Insert, Frank
+Insert, Grace
+Insert, Hank
+Insert, Ivy
+Insert, Jack
+Insert, Kelly
+Insert, Liam
+Insert, Mary
+Insert, Nina
+Insert, Oliver
+Insert, Paul
+Insert, Quincy
+Insert, Rachel
+Insert, Steve
+Insert, Tina
+Update, Bob, 150
+Update, Alice, 200
+Update, Grace, 180
+Update, David, 220
+Update, Eva, 210
+Update, Jack, 205
+Update, Liam, 250
+Update, Oliver, 250
+Update, Tina, 250
+Delete, Nina
+Insert, Ursula
+Insert, Victor
+Update, Ursula, 250
+Update, Victor, 235
+Search, Eva
+Top
+Leaderboard
+Delete, Ivy
+Update, Charlie, 215
+Insert, Wendy
+Update, Wendy, 225

@@ -1,0 +1,26 @@
+Insert, Bahadur
+Insert, Gulab
+Insert, Paneer
+Insert, Pappu
+Insert, Toofan
+Insert, Z
+Insert, Devi
+Insert, Murgha
+Update, Gulab, 200
+Update, Paneer, 100
+Update, Pappu, 500
+Update, Toofan, 300
+Update, Devi, 600
+Update, Murgha, 700
+Update, Bahadur, 400
+Insert, Paneer
+Update, Bhai, 250
+Delete, Bhai
+Delete, Murgha
+Delete, Bahadur
+Insert, Bhai
+Update, Bhai, 800
+Search, Devi
+Search, Bhai
+Top
+Leaderboard

@@ -1,0 +1,7 @@
+Bhai,800
+Devi,600
+Pappu,500
+Toofan,300
+Gulab,200
+Paneer,100
+Z,0
