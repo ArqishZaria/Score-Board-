@@ -2,13 +2,13 @@
 
 ## \[DSA Project Report]
 
-**Submitted by:**
-Arqish Zaria - az09714
-Shaheer Qureshi - sq09647
+# **Submitted by:**
+# Arqish Zaria - az09714
+# Shaheer Qureshi - sq09647
 
-**Course:** Data Structures and Algorithms
-**Instructor:** Saba Saeed
-**Department:** Computer Science, Habib University
+# **Course:** Data Structures and Algorithms
+# **Instructor:** Saba Saeed
+# **Department:** Computer Science, Habib University
 
 ---
 
